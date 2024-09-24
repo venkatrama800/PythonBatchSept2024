@@ -18,6 +18,9 @@ Python Learnings Repository
     class01 -> main
     git push origin class01
 
+### To check/ verify the modified content in existing file
+    git diff <filename>    
+
 
 ## Course Completed
 
