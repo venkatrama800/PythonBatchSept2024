@@ -24,7 +24,16 @@ Python Learnings Repository
 
 ## Course Completed
 
-class01 sept 18th Introduction,DevSetup, Working with git & commands https://us06web.zoom.us/rec/share/FmBPyvAsTuu_uEcE6glhkCmt-_uc9Uc7BxEqTUUSk021nt-WvW1inuw2CUGbkIgd.o1G7sr94PTh4lGhI
+class01 Sept 18
+Introduction
+DevSetup
+Working with git & commands
+https://us06web.zoom.us/rec/share/FmBPyvAsTuu_uEcE6glhkCmt-_uc9Uc7BxEqTUUSk021nt-WvW1inuw2CUGbkIgd.o1G7sr94PTh4lGhI
 
-class02 sept 19th Introduction to python, shebang line & usage Dynamic Typing Basic data types supports Indendation issue
+class02 Sept 19
+Introduction to python
+Shebang line & usage
+Dynamic Typing 
+Basic data types supports
+Indendation issue
 
