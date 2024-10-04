@@ -90,8 +90,8 @@ ___salary = 1231231232312323233
 # _variable_ ->  Built-in functions
 # Ex: _file, __name, __doc, __dict, __init_
 
-print("_name_ =", _name)  # __main_
-print("_file_ =", _file_)
+print("_name_ =", __name__)  # __main_
+print("_file_ =", __file__)
 
 # print('_pavithra_ =', _pavithra_)
 # NameError: name '_pavithra_' is not defined
