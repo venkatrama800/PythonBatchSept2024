@@ -13,3 +13,21 @@ Purpose: Ration Store
                                 --------------------
                                 BillableAmount:1080/-
 """
+
+
+wheat_price_kg = 25
+rice_price_kg = 12
+wheat_quantity_required = 30
+rice_quantity_required = 50
+subsidy_provided_percentage = 20
+
+TotalWheatPrice = wheat_price_kg*wheat_quantity_required
+print("Total Wheat Price: ",TotalWheatPrice)
+
+TotalRicePrice=rice_price_kg*rice_quantity_required
+print("Total Rice Price",TotalRicePrice)
+
+BilledAmount=(TotalRicePrice+TotalWheatPrice)*\
+    ((100-subsidy_provided_percentage)/100)
+
+print("Billed Amount: ",BilledAmount)
